@@ -17,7 +17,6 @@
                                         <p class="tovar-price">Фирменный шоколадный бисквит с добавлением черного шоколада, прослоен шоколадно-молочным муссом в сочетании с прослойкой орехового пралине и вафельной крошки.</p>
                                     </div>
                                 </div>
-                                <p></p>
                         </div>
                         <div class="tovar">
                                 <div class="tovar-img"> <img class="tovar-img-img" src="../assets/nachinki/chocolate/nachinka2.jpeg">
