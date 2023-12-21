@@ -30,8 +30,5 @@ module.exports = {
       title: "Delivery",
       chunks: ["chunk-vendors", "chunk-common", "delivery"],
     },
-    devServer: {
-      disableHostCheck: true,
-    },
   },
 };
