@@ -20,10 +20,8 @@
                         </ul>
                     </div>
                     <div class="footer-icons">
-                        <img class="footer-soc" src="../assets/socials/facebook.svg">
-                        <img class="footer-soc" src="../assets/socials/twiter.svg">
-                        <img class="footer-soc" src="../assets/socials/youtube.svg">
-                        <img class="footer-soc" src="../assets/socials/insta.svg">
+                        <img class="footer-soc" src="../assets/header-img/telegram.svg">
+                        <img class="footer-soc" src="../assets/header-img/vk.svg">
                     </div>
                 </div>
                 <div class="footer-logo">
@@ -168,11 +166,13 @@ p {
     font-weight: 400;
     line-height: normal;
     margin-right: 40px;
+    cursor: pointer;
 }
 .footer-soc {
     width: 28px;
     height: 25px;
     margin-right: 8px;
+    cursor: pointer;
 }
 .footer-icons {
     display: flex;

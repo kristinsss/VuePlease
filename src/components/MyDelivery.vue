@@ -124,7 +124,7 @@ p {
   min-height: 400px;
   width: 100%;
   background-color: #FFF;
-  border: 4px dashed rgba(238, 100, 137, 0.26);
+  border: 1px solid rgba(170, 71, 97, 0.922);
   color: var(--vc-clr-white);
   font-size: 20px;
   border-radius: 8px;

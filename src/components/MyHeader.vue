@@ -3,7 +3,7 @@
     <div class="container">
        <div class="header-up-line">
         <div class="search">
-          <img id="lupa" src="../assets/header-img/lupa.svg ">
+          <img id="lupa" src="../assets/header-img/telegram.svg ">
         </div>
         <div class="header-logo">
           <a href="index.html"><img class="logo-pic" src="../assets/logocake.png"></a>
@@ -58,9 +58,10 @@ p {
 }
 
 #lupa {
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   flex-shrink: 0;
+  cursor: pointer;
 }
 .logo-pic {
   width: 34px;
