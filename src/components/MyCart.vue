@@ -351,5 +351,13 @@ p {
     width: 20px;
     height: 20px;
     margin-top: 5px;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 40%;
+}
+.nach-cat-img:hover {
+    background-color: rgb(237, 203, 217);
+    border-radius: 50%;
+    transition: 0.7s;
 }
 </style>

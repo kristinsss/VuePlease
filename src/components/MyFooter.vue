@@ -16,8 +16,7 @@
                             <li class="li-footer"><a href="aboutus.html">О нас</a></li>
                             <li class="li-footer"><a href="catalog.html">Каталог</a></li>
                             <li class="li-footer"><a href="delivery.html">Доставка</a></li>
-                            <li class="li-footer"><a href="cart.html">Корзина</a></li>
-                            <li class="li-footer">Галерея</li>
+                            <li class="li-footer"><a href="cart.html">Начинки</a></li>
                         </ul>
                     </div>
                     <div class="footer-icons">
